@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/react-native-todo/static/js/app.81baa87d.chunk.js",
-    "app.js.map": "/react-native-todo/static/js/app.81baa87d.chunk.js.map",
+    "app.js": "/react-native-todo/static/js/app.8580bf04.chunk.js",
+    "app.js.map": "/react-native-todo/static/js/app.8580bf04.chunk.js.map",
     "runtime~app.js": "/react-native-todo/static/js/runtime~app.4fbb7ec3.js",
     "runtime~app.js.map": "/react-native-todo/static/js/runtime~app.4fbb7ec3.js.map",
     "static/js/2.f7963fac.chunk.js": "/react-native-todo/static/js/2.f7963fac.chunk.js",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime~app.4fbb7ec3.js",
     "static/js/2.f7963fac.chunk.js",
-    "static/js/app.81baa87d.chunk.js"
+    "static/js/app.8580bf04.chunk.js"
   ]
 }
