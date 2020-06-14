@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/kristinafree/react-native-todo/precache-manifest.4a9299c75f44061c29b9f29e5e4753c4.js"
+  "/react-native-todo/precache-manifest.6b062da9bd1031e041d006d450ccdb15.js"
 );
 
 workbox.skipWaiting();
@@ -29,7 +29,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("\\kristinafree\\react-native-todo\\index.html", {
+workbox.routing.registerNavigationRoute("\\react-native-todo\\index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
