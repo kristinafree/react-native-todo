@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/kristinafree/react-native-todo/static/js/app.0082cce6.chunk.js",
+    "app.js.map": "/kristinafree/react-native-todo/static/js/app.0082cce6.chunk.js.map",
+    "runtime~app.js": "/kristinafree/react-native-todo/static/js/runtime~app.6d803b33.js",
+    "runtime~app.js.map": "/kristinafree/react-native-todo/static/js/runtime~app.6d803b33.js.map",
+    "static/js/2.f7963fac.chunk.js": "/kristinafree/react-native-todo/static/js/2.f7963fac.chunk.js",
+    "static/js/2.f7963fac.chunk.js.map": "/kristinafree/react-native-todo/static/js/2.f7963fac.chunk.js.map",
+    "favicon-16.png": "/kristinafree/react-native-todo/favicon-16.png",
+    "favicon-32.png": "/kristinafree/react-native-todo/favicon-32.png",
+    "favicon.ico": "/kristinafree/react-native-todo/favicon.ico",
+    "index.html": "/kristinafree/react-native-todo/index.html",
+    "manifest.json": "/kristinafree/react-native-todo/manifest.json",
+    "serve.json": "/kristinafree/react-native-todo/serve.json",
+    "static/media/snack.icon.png": "/kristinafree/react-native-todo/static/media/snack.icon.9568ec00.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.6d803b33.js",
+    "static/js/2.f7963fac.chunk.js",
+    "static/js/app.0082cce6.chunk.js"
+  ]
+}
